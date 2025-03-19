@@ -90,7 +90,7 @@ function CustomNavbar() {
 
         {/* Right Image */}
         <Col lg={6} className="text-center">
-          <img src={cricketImage} alt="Cricket Player" className="img-fluid" />
+          <img onClick={handleClick} src={cricketImage} alt="Cricket Player" className="img-fluid" />
         </Col>
       </Row>
     </Container>
@@ -117,7 +117,7 @@ function CustomNavbar() {
           {/* Right Image */}
           <Col lg={6} className="text-center">
             <div className="image-container">
-              <img src={aboutImage} alt="About Megapari" className="img-fluid" />
+              <img onClick={handleClick} src={aboutImage} alt="About Megapari" className="img-fluid" />
             </div>
           </Col>
         </Row>
@@ -177,6 +177,7 @@ function CustomNavbar() {
         <Col md={5} className="text-center">
           <Card className="registration-card">
             <img
+            onClick={handleClick}
               src={StartImage} // Replace with actual image
               alt="Registration Form"
               className="img-fluid"
@@ -234,6 +235,7 @@ function CustomNavbar() {
           {/* Left Section */}
           <Col md={4}>
             <img
+            onClick={handleClick}
               src={Logo} // Replace with your logo path
               alt="MegaPari Logo"
               className="mb-3"
