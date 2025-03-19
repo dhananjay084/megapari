@@ -29,7 +29,7 @@ function CustomNavbar() {
     },
   ];
   const handleClick = () => {
-    window.location.href = "https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration"; 
+    window.location.href = "https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration"; 
   };
 
   
@@ -38,7 +38,7 @@ function CustomNavbar() {
     <Navbar bg="dark" variant="dark" expand="lg" className="px-3">
       <Container fluid>
         {/* Logo */}
-        <Navbar.Brand href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="fw-bold text-white">
+        <Navbar.Brand href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="fw-bold text-white">
           MEGA<span className="text-primary">:</span>
           <span className="text-danger">PARI</span>
         </Navbar.Brand>
@@ -49,12 +49,12 @@ function CustomNavbar() {
         <Navbar.Collapse id="basic-navbar-nav">
           {/* Navigation Links */}
           <Nav className="mx-auto">
-            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white">Registration</Nav.Link>
-            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white">Megapari App</Nav.Link>
-            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white">Bonuses</Nav.Link>
-            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white">Support</Nav.Link>
-            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white">Promo Code</Nav.Link>
-            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white">Casino</Nav.Link>
+            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white">Registration</Nav.Link>
+            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white">Megapari App</Nav.Link>
+            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white">Bonuses</Nav.Link>
+            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white">Support</Nav.Link>
+            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white">Promo Code</Nav.Link>
+            <Nav.Link href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white">Casino</Nav.Link>
           </Nav>
 
           {/* Buttons */}
@@ -83,7 +83,7 @@ function CustomNavbar() {
           <p>
             Use promo code <strong>BESTBONUS</strong> and get +30% to the main bonus on your first deposit. Summary is 130% up to 39,000 INR first deposit bonus.
           </p>
-          <Button variant="primary" className="fw-bold px-4 py-2">
+          <Button variant="primary" className="fw-bold px-4 py-2" onClick={handleClick}>
             START BETTING
           </Button>
         </Col>
@@ -109,9 +109,9 @@ function CustomNavbar() {
             </p>
             <p>
               The Megapari India website has more than twenty versions in different languages. According to the company’s data, the site is used by more than 400 thousand visitors. 
-              <a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="read-more"> Read More.</a>
+              <a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="read-more"> Read More.</a>
             </p>
-            <Button className="join-btn mt-3 mb-2">JOIN US</Button>
+            <Button className="join-btn mt-3 mb-2" onClick={handleClick}>JOIN US</Button>
           </Col>
 
           {/* Right Image */}
@@ -165,7 +165,7 @@ function CustomNavbar() {
             </tr>
             <tr>
               <td><strong>Support Email</strong></td>
-              <td><a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="email-link">support@megapari.com</a></td>
+              <td><a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="email-link">support@megapari.com</a></td>
             </tr>
           </tbody>
         </Table>
@@ -213,7 +213,7 @@ function CustomNavbar() {
           </div>
 
           {/* Register Button */}
-          <Button className="register-button">REGISTER NOW</Button>
+          <Button className="register-button" onClick={handleClick}>REGISTER NOW</Button>
         </Col>
       </Row>
     </Container>
@@ -249,14 +249,13 @@ function CustomNavbar() {
           <Col md={4} className="text-center">
             <h5>Main Information</h5>
             <ul className="list-unstyled">
-              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white text-decoration-none">About Us</a></li>
-              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white text-decoration-none">Contact Us</a></li>
-              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white text-decoration-none">Terms and Conditions</a></li>
-              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white text-decoration-none">Privacy Policy</a></li>
-              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white text-decoration-none">Responsible Gaming</a></li>
-              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white text-decoration-none">Anti Fraud</a></li>
-              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white text-decoration-none">License</a></li>
-              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white text-decoration-none">Affiliate Program</a></li>
+              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white text-decoration-none">About Us</a></li>
+              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white text-decoration-none">Contact Us</a></li>
+              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white text-decoration-none">Terms and Conditions</a></li>
+              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white text-decoration-none">Privacy Policy</a></li>
+              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white text-decoration-none">Responsible Gaming</a></li>
+              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white text-decoration-none">Anti Fraud</a></li>
+              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white text-decoration-none">License</a></li>
             </ul>
           </Col>
 
@@ -264,15 +263,15 @@ function CustomNavbar() {
           <Col md={4} className="text-center">
             <h5>For help with addiction</h5>
             <ul className="list-unstyled">
-              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white text-decoration-none">Gambling Therapy</a></li>
-              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white text-decoration-none">BeGambleAware</a></li>
+              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white text-decoration-none">Gambling Therapy</a></li>
+              <li><a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white text-decoration-none">BeGambleAware</a></li>
             </ul>
             {/* Social Icons */}
             <div className="mt-3">
-              <a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white me-3"><FaFacebook size={24} /></a>
-              <a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white me-3"><FaTwitter size={24} /></a>
-              <a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white me-3"><FaInstagram size={24} /></a>
-              <a href="https://refpaiozdg.top/L?tag=d_4197859m_25437c_&site=4197859&ad=25437&r=registration" className="text-white"><FaVk size={24} /></a>
+              <a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white me-3"><FaFacebook size={24} /></a>
+              <a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white me-3"><FaTwitter size={24} /></a>
+              <a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white me-3"><FaInstagram size={24} /></a>
+              <a href="https://refpaiozdg.top/L?tag=d_4197859m_62059c_&site=4197859&ad=62059&r=registration" className="text-white"><FaVk size={24} /></a>
             </div>
           </Col>
         </Row>
@@ -280,7 +279,7 @@ function CustomNavbar() {
 
       {/* Scroll to Top Button */}
       <div className="scroll-to-top">
-        <button className="btn btn-light rounded-circle">
+        <button  onClick={handleClick} className="btn btn-light rounded-circle">
           ↑
         </button>
       </div>
