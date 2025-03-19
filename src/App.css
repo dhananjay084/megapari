@@ -1,0 +1,172 @@
+.banner-section {
+  background-color: #131314; /* Dark background */
+}
+
+.highlight {
+  background-color: #2d6cdf;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+.general-info-section {
+  background-color: #fff;
+}
+
+.image-container {
+  background-color: #131314;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.image-container img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.read-more {
+  color: #2d6cdf;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+
+.join-btn {
+  background-color: #2d6cdf;
+  color: white;
+  font-weight: bold;
+  padding: 10px 30px;
+  border-radius: 5px;
+  border: none;
+}
+
+@media (max-width: 768px) {
+  .text-start {
+    text-align: center !important;
+  }
+}
+.company-table {
+  width: 100%;
+  background-color: #fff;
+  border-collapse: collapse;
+}
+
+.company-table td {
+  padding: 12px;
+  border: 1px solid #000;
+  font-size: 16px;
+}
+
+.company-table td:first-child {
+  font-weight: bold;
+}
+
+.email-link {
+  color: #2d6cdf;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.email-link:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .company-table td {
+    font-size: 14px;
+    padding: 10px;
+  }
+}
+.registration-container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.registration-heading {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.registration-steps {
+  font-size: 16px;
+  padding-left: 20px;
+}
+
+.registration-steps li {
+  margin-bottom: 10px;
+}
+
+.age-restriction {
+  background: #f1f8ff;
+  padding: 12px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.register-button {
+  background-color: #007bff;
+  border: none;
+  font-size: 18px;
+  padding: 12px 20px;
+  margin-top: 20px;
+}
+
+.register-button:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .registration-heading {
+    font-size: 24px;
+  }
+
+  .registration-steps {
+    font-size: 14px;
+  }
+
+  .age-restriction {
+    font-size: 14px;
+  }
+
+  .register-button {
+    width: 100%;
+  }
+}
+.footer {
+  background-color: #000;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.footer ul {
+  padding: 0;
+  list-style: none;
+}
+
+.footer ul li {
+  margin-bottom: 8px;
+}
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.scroll-to-top button {
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+}
